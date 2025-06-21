@@ -1,4 +1,3 @@
-# sample
 <!DOCTYPE html>
 <html>
 <head>
